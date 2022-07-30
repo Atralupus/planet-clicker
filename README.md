@@ -11,7 +11,7 @@ Decentralized clicker game on Libplanet
  1. Install [Unity Hub].
  2. Install [Unity 2021.3.0f1].
  3. Clone repository.
-    ```
+    ```asdfasdf
     $ git clone https://github.com/planetarium/planet-clicker
     ```
  4. Run Unity Editor and build the project.
